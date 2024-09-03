@@ -1,6 +1,6 @@
 ### boas vindas ao meu perfil 🤓
 
-meu nome é raissa
+oii, meu nome é raissa (na verdade não é 😿)
 
 - estou estudando na [Alura](https://www.alura.com.br)
 - estou me desenvolvendo na linguagem JavaScript
